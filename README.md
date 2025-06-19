@@ -236,3 +236,64 @@ Step 3. (c) When finished, open ADUC and observe the accounts in the appropriate
 </p>
 <br />
 
+<p>
+<img width="505" alt="Step 4  (a" src="https://github.com/user-attachments/assets/2c12c672-c9ea-454b-9383-3a88df009251" />
+</p>
+<p>
+Step 4. (a) Account Lockout Configuration
+</p>
+<br />
+
+<p>
+<img width="503" alt="Step 4  (b" src="https://github.com/user-attachments/assets/83fac3bb-1625-4ab6-b8a5-674dc1a685f1" />
+
+</p>
+<p>
+Step 4. (b) Group Policy Update
+</p>
+<br />
+
+<p>
+<img width="503" alt="Step 4  (c" src="https://github.com/user-attachments/assets/1e85873e-c761-471c-9f19-f2ae927bed8d" />
+
+</p>
+<p>
+Step 4. (c) Account Lockout Demonstration
+</p>
+<br />
+
+<p>
+<img width="505" alt="Step 4  (d" src="https://github.com/user-attachments/assets/e5341c7c-17a2-4cc2-8f20-849ca68a271f" />
+
+</p>
+<p>
+Step 4. (d) Unlocking The Account
+</p>
+<br />
+
+<p>
+<img width="503" alt="Step 4  (e" src="https://github.com/user-attachments/assets/bfcf09b5-065e-43e2-8ec0-f9cc6bf61583" />
+
+</p>
+<p>
+Step 4. (e) Password Reset
+</p>
+<br />
+
+<p>
+<img width="504" alt="Step 4  (f" src="https://github.com/user-attachments/assets/9b780169-1259-4ac4-bb2d-7cb31ceda8f2" />
+<img width="504" alt="Step 4  (g" src="https://github.com/user-attachments/assets/9fbfdeef-4467-4699-8fb9-b58b2ee13123" />
+
+<p>
+Step 4. (f) Enable & Disable Account 
+</p>
+<br />
+
+<p>
+<img width="503" alt="Step 4  (h" src="https://github.com/user-attachments/assets/84327f44-6d35-4554-ba86-f4cb4e3bbbad" />
+
+</p>
+<p>
+Step 4. (g) Observing Logs
+</p>
+<br />
