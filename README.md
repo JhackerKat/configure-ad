@@ -215,7 +215,7 @@ Allow "domain users" access to remote desktop
 <img width="501" alt="Step 2  (m" src="https://github.com/user-attachments/assets/fc70f4bb-627d-4fc2-ace0-00a8b4fd525a" />
 </p>
 <p>
-Step 2. (m)  Login to DC-1 as jane_admin Open PowerShell _ise as an administrator
+Step 3. (a)  Login to DC-1 as jane_admin Open PowerShell _ise as an administrator
 Create a new File and paste the contents of the script into it
 </p>
 <br />
@@ -224,7 +224,7 @@ Create a new File and paste the contents of the script into it
 <img width="502" alt="Step 2  (n" src="https://github.com/user-attachments/assets/0210e918-2ba0-4593-a590-c51963c7672c" />
 </p>
 <p>
-Step 2. (n) Run the script and observe the accounts being created 
+Step 3. (b) Run the script and observe the accounts being created 
 </p>
 <br />
 
@@ -232,7 +232,7 @@ Step 2. (n) Run the script and observe the accounts being created
 <img width="500" alt="Step 2  (o" src="https://github.com/user-attachments/assets/d15f8b73-6f96-40d2-aca5-6534b93c2e9b" />
 </p>
 <p>
-Step 2. (o) When finished, open ADUC and observe the accounts in the appropriate OU "_EMPLOYEES" attempt to log into Client-1 with one of the accounts (take note of the password in the script)
+Step 3. (c) When finished, open ADUC and observe the accounts in the appropriate OU "_EMPLOYEES" attempt to log into Client-1 with one of the accounts (take note of the password in the script)
 </p>
 <br />
 
